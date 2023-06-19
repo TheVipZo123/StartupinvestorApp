@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "804282152741",
+    "project_id": "startupinvestor-ba524",
+    "storage_bucket": "startupinvestor-ba524.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:804282152741:android:2064eb529e20859e9ccccc",
+        "android_client_info": {
+          "package_name": "com.example.flutter_application_startupinvestor"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "804282152741-ptrqevbnnj8j5lni06ochec3l2oj3vjr.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAW7q7Nu7apljk3duskjBzxJeJ5crtEiJI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "804282152741-ptrqevbnnj8j5lni06ochec3l2oj3vjr.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
